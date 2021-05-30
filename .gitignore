@@ -1,0 +1,7 @@
+.env
+node_modules
+/public/images
+/src/components/Weather.js
+/src/components/Cards.css
+/src/components/Cards.js
+/src/components/CardItem.js
