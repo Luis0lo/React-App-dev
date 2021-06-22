@@ -21,7 +21,6 @@ const ListContextProvider = (props) => {
 
 export default ListContextProvider;
 
-//To use the code below delete the projectReducer file
 // import React, { createContext, useState } from 'react';
 // import uuid from 'uuid/v1';
 

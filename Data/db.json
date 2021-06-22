@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "OOP Encapsulation Pillar",
+      "body": "Encapsulation : Encapsulation means wrapping up data and member function (Method) together into a single unit i.e. class. Encapsulation automatically achieve the concept of data hiding providing security to data by making the variable as private and expose the property to access the private data which would be public.",
+      "author": "Rodrigues",
+      "id": 2
+    },
+    {
+      "title": "Paradigms",
+      "body": "The most common and practical paradigms in javascript are Functional Programming and Object Oriented Programming which both when mastered, give developers the ability to write robust code in a way that may seem efficient to a specific program.",
+      "author": "Luis",
+      "id": 3
+    },
+    {
+      "title": "Functional Programming",
+      "body": "Functional programming AKA Declarative programming is a programming pattern centered around functions is involves closures and lambdas to execute some certain task. Here is an example below.",
+      "author": "Luis",
+      "id": 4
+    }
+  ]
+}

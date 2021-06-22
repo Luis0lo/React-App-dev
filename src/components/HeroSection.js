@@ -3,13 +3,13 @@ import '../App.css';
 import { Button } from './Button';
 import CurDate from './CurDate';
 import Greeting from './Greeting';
-import Weather from './Weather';
+// import Weather from './Weather';
 import './HeroSection.css';
 
 function HeroSection() {
   return (
     <div className="hero-container">
-      <video src="/videos/video-1.mp4" autoPlay loop muted />
+      {/* <video src="/videos/video-1.mp4" autoPlay loop muted /> */}
       <Greeting />
       {/* <Weather /> */}
       <p>What are you waiting for?</p>

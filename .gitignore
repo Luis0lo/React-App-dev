@@ -5,3 +5,5 @@ node_modules
 /src/components/Cards.css
 /src/components/Cards.js
 /src/components/CardItem.js
+/src/contexts/AuthContext.js
+/src/components/blog/BlogList.js

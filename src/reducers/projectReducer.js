@@ -1,6 +1,5 @@
 import uuid from 'uuid/v1';
 
-//state represent the project object
 export const projectReducer = (state, action) => {
   switch (action.type) {
     case 'ADD_PROJECT':
